@@ -9,32 +9,32 @@ import img4 from '../assets/catering reservation.jpg';
 const Projects = () => {
   const projects = [
     {
-      title: "Shaadi global website",
+      title: "MyWeddingTour",
       description: "Modern e-commerce website to help foreigners to attend our indian wedding and to join our culture",
       tech: ["React", "tailwindcss", "wordpress"],
       image: img1,
-      github: "https://github.com/ailimbaliya77/Shaadi-global-final",
+      github: "https://ailimbaliya77.github.io/MyWeddingTour/",
     },
     {
       title: "Blogg-website",
       description: "exploring the world of different type of blogs",
       tech: ["React", "tailwindcss", "Firebase"],
       image: img2,
-      github: "https://github.com/ailimbaliya77/blog-web-live",
+      github: "https://ailimbaliya77.github.io/goops-blog/",
     },
     {
       title: "Clinic management website",
       description: "modern e-commerce platform for docter and patients",
       tech: ["React", "tailwind", "Firebase"],
       image: img3,
-      github: " https://github.com/ailimbaliya77/clinicc-management",
+      github: "https://ailimbaliya77.github.io/clinic-managementt/",
     },
     {
       title: "catering reservation website",
       description: "website where users can book their catering needs and make their days memorable",
       tech: ["React", "tailwind", "Firebase"],
       image:img4,
-      github: "https://github.com/ailimbaliya77/Catering-reservation",
+      github: "https://ailimbaliya77.github.io/catering-reservation/",
     }
   ];
 
